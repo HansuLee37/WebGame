@@ -1,6 +1,9 @@
-#user1{
-    background-color : 'black';
+#list{
+    width : 600px;
+    height : 600px;
+    background-color : ivory;
+    align-content: center;
 }
-#user2{
-    background-color : 'red';
+#input{
+    
 }
